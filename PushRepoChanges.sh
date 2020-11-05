@@ -5,13 +5,23 @@
 
 git status
 echo ""
-echo " Press Enter To Continue"
-echo ""
-read
+
+
+
 
 git add .
 
-git commit -m "Updates"
+#git commit -m "Updates"
+echo ""
+echo " Press Enter To Continue"
+read git_commit_msg
+
+echo "Enter Your git commit Message..."
+echo $git_commit_msg
+
+export $git_commit_msg
+
+git commit $git_commit_msg
 
 git push
 
