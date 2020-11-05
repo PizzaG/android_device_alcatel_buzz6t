@@ -12,6 +12,8 @@ git add .
 
 git commit -m "Updates"
 
+echo ""
 echo " Repo Changes Should Be Pushed"
 echo ""
+echo "Press Enter To Exit"
 read
