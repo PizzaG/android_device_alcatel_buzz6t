@@ -11,7 +11,7 @@ read
 
 git add .
 
-git commit -m "Updates"
+git commit -m "Updates."
 
 echo ""
 echo " Repo Changes Should Be Pushed"
