@@ -4,6 +4,7 @@
 ## Copyright: 2020 A-Team Digital Solutions
 
 git status
+echo ""
 echo " Press Enter To Continue"
 echo ""
 read
