@@ -29,8 +29,11 @@ echo ""
 
 git push
 echo ""
+echo ""
+echo ""
 
 echo "Repo Changes Should Be Pushed"
+echo ""
 echo ""
 echo "Press Enter To Exit"
 read
