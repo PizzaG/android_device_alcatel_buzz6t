@@ -18,9 +18,6 @@ echo "Enter Your git commit Message..."
 echo $git_commit_msg
 echo ""
 
-#export $git_commit_msg
-echo ""
-
 git commit $git_commit_msg
 echo ""
 
