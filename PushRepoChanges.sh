@@ -8,13 +8,19 @@ echo ""
 
 git add .
 echo ""
+echo ""
+echo ""
+echo ""
 
+echo "Now You Will Enter Your git commit Message..."
+echo ""
+echo ""
 echo " Press Enter To Continue"
 echo ""
 read git_commit_msg
 echo ""
 
-echo "Enter Your git commit Message..."
+
 echo $git_commit_msg
 echo ""
 
@@ -24,7 +30,7 @@ echo ""
 git push
 echo ""
 
-echo " Repo Changes Should Be Pushed"
+echo "Repo Changes Should Be Pushed"
 echo ""
 echo "Press Enter To Exit"
 read
