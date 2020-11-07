@@ -36,4 +36,5 @@ echo "Repo Changes Should Be Pushed"
 echo ""
 echo ""
 echo "Press Enter To Exit"
+#nothing
 read
